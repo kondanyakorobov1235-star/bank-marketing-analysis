@@ -93,7 +93,7 @@ python analysis.py
 Данные: Moro, Rita & Cortez, *Bank Marketing*, 2014, [DOI](https://doi.org/10.24432/C5K306), лицензия CC BY 4.0.
 
 Ориентир по структуре — [открытый пример анализа банковской кампании](https://github.com/jk98190/Bank_Dataset). Код и расчёты проекта подготовлены заново. При подготовке кода и оформлении материалов использовался Codex.
-
+```
 ## Источники и инструменты
 
 Данные: Moro, Rita & Cortez, *Bank Marketing*, 2014, [DOI](https://doi.org/10.24432/C5K306), лицензия CC BY 4.0.
