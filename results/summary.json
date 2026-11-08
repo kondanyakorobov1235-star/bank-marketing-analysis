@@ -1,0 +1,13 @@
+{
+  "rows": 45211,
+  "duplicates": 0,
+  "null_cells": 0,
+  "unknown_counts": {
+    "job": 288,
+    "education": 1857,
+    "contact": 13020,
+    "poutcome": 36959
+  },
+  "subscriptions": 5289,
+  "conversion_pct": 11.7
+}
